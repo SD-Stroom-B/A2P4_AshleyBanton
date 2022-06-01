@@ -1,0 +1,14 @@
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\bin\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.exe
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\bin\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.deps.json
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\bin\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.runtimeconfig.json
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\bin\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.runtimeconfig.dev.json
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\bin\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.dll
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\bin\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.pdb
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\obj\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.csproj.AssemblyReference.cache
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\obj\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\obj\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.AssemblyInfoInputs.cache
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\obj\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.AssemblyInfo.cs
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\obj\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.csproj.CoreCompileInputs.cache
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\obj\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.dll
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\obj\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.pdb
+C:\Users\Ashley Banton\source\repos\a2p4_ashleybanton_sd\obj\Debug\netcoreapp3.1\a2p4_ashleybanton_sd.genruntimeconfig.cache
